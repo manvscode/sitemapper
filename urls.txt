@@ -1,0 +1,3 @@
+#
+/images/featured_project.gif
+http://www.manvscode.com
